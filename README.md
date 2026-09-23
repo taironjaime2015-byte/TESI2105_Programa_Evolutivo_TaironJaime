@@ -1,0 +1,3 @@
+!Esto fue para un laboratorio Universitario! 
+
+El programa opera mediante un flujo secuencial simple: primero solicita al usuario el tiempo transcurrido en el minijuego, luego procesa el cálculo mediante una multiplicación aritmética básica con una constante de valor, y finalmente muestra el resultado obtenido en la consola. No requiere validaciones ni estructuras repetitivas, garantizando una ejecución lineal y rápida.
